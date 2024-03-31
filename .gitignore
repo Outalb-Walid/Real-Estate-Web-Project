@@ -4,6 +4,7 @@
 /node_modules
 /.pnp
 .pnp.js
+#TEST
 # testing
 /immo-agency.rar
 /coverage
