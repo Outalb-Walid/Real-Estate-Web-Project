@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/static/css/main.9cba6992.css",
+    "main.js": "/static/js/main.a96cd963.js",
+    "static/js/787.f616edd3.chunk.js": "/static/js/787.f616edd3.chunk.js",
+    "static/media/review-img-about.jpg": "/static/media/review-img-about.6d873859be9497cbb4c3.jpg",
+    "static/media/sale-header-img.jpg": "/static/media/sale-header-img.ae60d46d74fed1290939.jpg",
+    "static/media/discover-img.jpg": "/static/media/discover-img.93732000b17015e3b7c7.jpg",
+    "static/media/about-header-img.jpg": "/static/media/about-header-img.13ed00000dd9342fa5b1.jpg",
+    "static/media/review-img.jpg": "/static/media/review-img.f4b64d12c4947c6b231b.jpg",
+    "static/media/rent-header-img.jpg": "/static/media/rent-header-img.f9e9450fabe3a5b3e2eb.jpg",
+    "static/media/contact-header-img.jpg": "/static/media/contact-header-img.7b6970c9a39088ceaaed.jpg",
+    "static/media/about-img.jpg": "/static/media/about-img.338ff422a843cb5a333f.jpg",
+    "static/media/person1.jpg": "/static/media/person1.2b24193a559d631f20ba.jpg",
+    "static/media/chatboat_icon1.png": "/static/media/chatboat_icon1.ece250ab016969bc45f7.png",
+    "static/media/person2.jpg": "/static/media/person2.f6b8e61e2973e7064ad0.jpg",
+    "static/media/revicons.eot": "/static/media/revicons.a77de540a38981833f9e.eot",
+    "static/media/revicons.ttf": "/static/media/revicons.57fd05d4ae650374c8de.ttf",
+    "static/media/revicons.woff": "/static/media/revicons.e8746a624ed098489406.woff",
+    "index.html": "/index.html",
+    "static/media/buildings.svg": "/static/media/buildings.646793f339856dea9ec128add8fbd001.svg",
+    "main.9cba6992.css.map": "/static/css/main.9cba6992.css.map",
+    "main.a96cd963.js.map": "/static/js/main.a96cd963.js.map",
+    "787.f616edd3.chunk.js.map": "/static/js/787.f616edd3.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9cba6992.css",
+    "static/js/main.a96cd963.js"
+  ]
+}
